@@ -7,6 +7,6 @@
     "azure-iot-device": "^1.1.16",
     "azure-iot-device-mqtt": "^1.1.16",
     "ieee754": "^1.1.8",
-    "modbus-serial": "^5.3.1"
+    "modbus-serial": "^5.3.2"
   }
 }
